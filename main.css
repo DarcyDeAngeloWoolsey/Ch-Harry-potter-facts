@@ -1,0 +1,26 @@
+body {
+    background-color: #BA55D3;
+}
+
+h1 {
+    color: #8E1A28;
+}
+
+h2 {
+    color: aqua;
+}
+
+h3 {
+    color: #FFD700;
+}
+
+section {
+    background-color: ;
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+}
